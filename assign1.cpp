@@ -5,7 +5,7 @@ ropiequet@chapman.edu
 CPSC 350-02
 Assignment 1
 
-This is my .cpp implementation file with all my methods to calculate statisitics
+This is my .cpp implementation file with all my methods to calculate statistics
 regarding the DNA strings in the given file. It also generates 1000 new DNA strings
 following the mean, variance, and frequency of what was calculated from the given file.
 */
