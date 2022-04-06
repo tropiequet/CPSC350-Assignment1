@@ -13,7 +13,7 @@ assign1.cpp
 main.cpp
 
 3.
-The strings generated do not always following the required mean, variance, and frequency.
+The strings generated do not always follow the required mean, variance, and frequency.
 
 4.
 http://www.cplusplus.com/doc/tutorial/
